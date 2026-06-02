@@ -25,7 +25,7 @@ public class LoginController {
         }
 
         if (password == null || password.isEmpty()) {
-            loginMessage.setText("Password cannot be empty");
+            loginMessage.setText("Password cannot be empty ");
             return;
         }
 
