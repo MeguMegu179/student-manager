@@ -1,0 +1,8 @@
+[Student]-(Login)
+[Student]-(View Tasks)
+[Student]-(Add Task)
+[Student]-(Mark Task Complete)
+[Teacher]-(Login)
+[Teacher]-(View Students)
+[Teacher]-(Add Student)
+[Teacher]-(Remove Student)
